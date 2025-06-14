@@ -8,6 +8,8 @@ homepage: https://github.com/SaranGreenz/age_calculator_helper
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
+license: MIT
+
 # Add regular dependencies here.
 dependencies:
   # Normally you don't include yourself as a dependency
