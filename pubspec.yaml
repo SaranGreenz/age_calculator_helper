@@ -1,6 +1,6 @@
 name: age_calculator_helper
 description: A Dart package to calculate age, zodiac, milestones, and more.
-version: 1.0.0
+version: 1.0.1
 maintainers:
   - Saran kumar RS <https://sarankumarrs.in>
 homepage: https://github.com/SaranGreenz/age_calculator_helper
